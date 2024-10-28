@@ -1,0 +1,18 @@
+{
+  "name": "hw04-arrays",
+  "version": "1.0.0",
+  "description": "WWCC CS140 Homework 4 Arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WWCC-Ferraro/HW04-Arrays"
+  },
+  "author": "Nick Ferraro <nicholas.ferraro@wwcc.edu>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
